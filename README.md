@@ -6,12 +6,12 @@ Dieses Repository enthält Tutorials für Angular 17, die auf den offiziellen An
 
 ### 1. Angular Router Tour of Heroes
 
-- [Link zum Tutorial](angular-router-tour-of-heroes/README.md)
+- [Link zum Tutorial](angular-router-tour-of-heroes/README.md) [noch in Arbeit]
 - Beschreibung: Ein Tutorial, das die Verwendung des Angular-Routers zur Navigation durch verschiedene Ansichten einer Heldenanwendung demonstriert.
 
 ### 2. Angular Tour of Heroes
 
-- [Link zum Tutorial](angular-tour-of-heroes/README.md)
+- [Link zum Tutorial](angular-tour-of-heroes/README.md) [noch in Arbeit]
 - Beschreibung: Ein grundlegendes Tutorial, das die Erstellung einer einfachen Heldenanwendung in Angular demonstriert.
 
 ## Anforderungen
