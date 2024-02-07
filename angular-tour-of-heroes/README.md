@@ -1,5 +1,9 @@
 # AngularTourOfHeroes
 
+link to the [live demo](https://angular.io/generated/live-examples/toh-pt6/stackblitz.html)
+
+link to the [tutorial](https://angular.io/tutorial/tour-of-heroes)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
 ## Development server

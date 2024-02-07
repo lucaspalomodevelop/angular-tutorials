@@ -1,4 +1,8 @@
-# AngularRouterTourOfHeroes
+# AngularRouterTourOfHeroes 
+
+link to the [live demo](https://angular.io/generated/live-examples/router/stackblitz.html)
+
+link to the [tutorial](https://angular.io/guide/router-tutorial-toh)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
