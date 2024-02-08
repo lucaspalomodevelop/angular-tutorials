@@ -29,7 +29,7 @@ Dieses Repository enthält Tutorials für Angular 17, die auf den offiziellen An
 
 ## Mitwirkung
 
-Beiträge sind willkommen! Bitte öffnen Sie ein Issue, um einen Fehler zu melden, oder senden Sie eine Pull-Anfrage, um Verbesserungen vorzuschlagen.
+Beiträge sind willkommen! Bitte öffnen Sie ein Issue, um einen Fehler zu melden, oder senden Sie eine Pull-Request, um Verbesserungen vorzuschlagen.
 
 ## Lizenz
 
